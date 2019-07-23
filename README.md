@@ -293,6 +293,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [University of Nicosia MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - University of Nicosia´s free MOOC (Massive Open Online Course) DFIN-511: Introduction to Digital Currencies.
 
 ## Other
+* [CryptoSec](https://cryptosec.info/exchange-hacks/) - Documented Timeline of Exchange Hacks
 * [CoinPride Newsletter](https://coinpride.com/) - The most important crypto news and events. One handcrafted email per week.
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
 * [Blockchain Demo](https://blockchaindemo.io/) - This interactive demo will guide you through each component of blockchain step-by-step.
